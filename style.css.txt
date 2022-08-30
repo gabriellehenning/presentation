@@ -1,0 +1,102 @@
+﻿body {
+  font-family: Georgia, serif;
+  font-size: 15px;
+  max-width: 960px;
+  margin: auto;
+  text-align: justify;
+  background-color: rgb(139, 30, 30);
+  font-co
+}
+
+
+
+
+h1 {
+  font-size: 2em;
+  letter-spacing: .3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
+ 
+}
+
+
+
+
+h2 {
+  font-size: 1em;
+  padding-bottom: 1em;
+}
+
+
+
+
+h3 {
+  font-size: 2em;
+  padding-bottom: 1em;
+}
+
+
+
+
+main {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  margin-top: 3em;
+  text-align: justify;
+}
+
+
+
+
+header {
+  text-align: justify;
+  margin: auto 2em;
+  color: rgb(12, 180, 180);
+}
+
+
+
+
+section {
+  margin: auto 1em 4em 2em;
+  color: rgb(12, 180, 180);
+}
+
+
+
+
+i {
+  margin-right: .5em;
+}
+
+
+
+
+p {
+  margin: .2em auto
+}
+
+
+
+
+hr {
+  border: none;
+  background-color: rgb(211, 211, 211);
+  height: 1px;
+}
+
+
+
+
+h1, h2, h3 {
+  font-weight: 100;
+  margin-bottom: 0;
+}
+
+
+
+
+#mainLeft {
+  border-right: 1px solid rgb(211, 211, 211);
+}
